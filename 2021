@@ -1,0 +1,38 @@
+<html>
+<head>
+ <title>Namish</title>
+
+
+ <Style> 
+  body{
+    background-color: darkgreen;
+    text-align: center; 
+  }
+  div{
+  margin-left: 500px; 
+  border: 10px solid black;
+  border-radius:20px;
+  width: 500px;   
+  height: 500px;
+  background:cyan;
+  }
+
+  </style>
+
+
+
+
+    </head>
+    <body>
+        <h1>Name-Card</h1>
+        <div>
+            <h2>Namish</h2>
+            <img src="profilepicture_boy.jpg" alt="boy"> <br>
+            <p><b> AGE</b>: 10 </p>
+            <p> <b>Name</b>: Namish Singhai </p>
+            <p> <b>School</b>: Euroschool Whitefield</p>
+            <p> <b>Hobbies</b>: Painting </p>
+            
+        </div>
+    </body>
+</html>
